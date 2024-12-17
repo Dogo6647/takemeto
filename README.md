@@ -1,4 +1,4 @@
-# TakeMeTo
+# [TakeMeTo](https://dogo6647.github.io/takemeto)
 A simple website with the only purpose of taking you to any URL you desire, in a redirect, in an iframe, or in a new tab. Partially written with ChatGPT because I'm too lazy and don't want to spend too much time on this. Can be useful if you want a minimal new tab page [(For a more feature-rich new tab page, see Gnutab)](https://github.com/gnutab) or for "escaping" embedded web browsers such as those in gaming consoles or login popups (provided you can access GitHub to visit this page first).
 <br><br>
 ## What does it do?
